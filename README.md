@@ -1,5 +1,5 @@
 # Data analytics and Visual Story telling
-Here are some examples of an analytics approach in solving business problems. Better visuals bring business insights, helpful in identifying business trends. 
+Highlighting some examples of analytics approaches in solving business problems. Better visuals bring business insights, helpful in identifying business trends and support decision making.
 
 
 Descriptive Statistics
